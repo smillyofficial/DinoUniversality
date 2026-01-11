@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dino University",
+  "description": "The official hub for Dino Universe, a natural unscripted SMP. Three guardian teams, one epic story.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
